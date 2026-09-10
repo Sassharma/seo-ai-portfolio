@@ -23,4 +23,4 @@ Upload `index.html`, `style.css`, `script.js`, then:
 ## Important
 The statistics in the design are demonstration UI values, not verified real-world results.
 
-Replace `your-email@example.com` in `index.html` with your actual contact email before publishing.
+
