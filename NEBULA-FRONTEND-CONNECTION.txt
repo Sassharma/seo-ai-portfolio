@@ -1,0 +1,13 @@
+// Nebula AI connection
+// Your chat UI should POST the user's message to:
+// POST /api/chat
+// Body: { "message": "Hello" }
+//
+// Example:
+// const response = await fetch("/api/chat", {
+//   method: "POST",
+//   headers: { "Content-Type": "application/json" },
+//   body: JSON.stringify({ message })
+// });
+// const data = await response.json();
+// console.log(data.reply);
